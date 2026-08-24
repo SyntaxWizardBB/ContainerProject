@@ -5,3 +5,14 @@
 apps/dashboard/.nuxt/
 apps/dashboard/.output/
 apps/dashboard/node_modules/
+
+# Restored from local block-4 state: secrets, deps, Nix build outputs
+Thumbs.db
+.env
+.env.*
+node_modules/
+.nuxt/
+.output/
+result
+result-*
+coverage.out
